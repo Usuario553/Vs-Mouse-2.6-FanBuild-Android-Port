@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mouse_Repent u"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mouse_Repent d"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mouse_Repent r"
+		},
+		{
+			"offsets": [
+				3,
+				-2
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mouse_Repent l"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "idle",
+			"loop": true,
+			"name": "Mouse_Repent idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mouse_repent",
+	"position": [
+		-200,
+		50
+	],
+	"healthicon": "mouse-repent",
+	"flip_x": false,
+	"healthbar_colors": [
+		71,
+		0,
+		0
+	],
+	"camera_position": [
+		-150,
+		170
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1.3
+}

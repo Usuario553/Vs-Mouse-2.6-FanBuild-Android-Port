@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				231,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				164,
+				-91
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Simbolo 9 instancia",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/photo_negative_fla",
+	"position": [
+		-170,
+		-130
+	],
+	"healthicon": "mpnm",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		63,
+		77
+	],
+	"camera_position": [
+		-20,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "Mouse_mad i"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mouse_mad u"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mouse_mad d"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mouse_mad r"
+		},
+		{
+			"offsets": [
+				3,
+				-2
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mouse_mad l"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mouse_mad",
+	"position": [
+		-200,
+		50
+	],
+	"healthicon": "mouse-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		232,
+		37,
+		64
+	],
+	"camera_position": [
+		-150,
+		170
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1.3
+}

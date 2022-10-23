@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-325,
+				-192
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Juko_Beta_Mouse idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-324,
+				-192
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Juko_Beta_Mouse left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-324,
+				-192
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Juko_Beta_Mouse right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-324,
+				-192
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Juko_Beta_Mouse up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-323,
+				-192
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Juko_Beta_Mouse down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Juko_Beta_Mouse",
+	"position": [
+		-320,
+		10
+	],
+	"healthicon": "marky",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		120,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

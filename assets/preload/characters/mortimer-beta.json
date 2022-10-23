@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-402,
+				-80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-432,
+				-121
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-442,
+				-60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-338,
+				-80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-540,
+				-76
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-340,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "smile",
+			"loop": false,
+			"name": "smile"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/suicide_beta",
+	"position": [
+		-620,
+		-190
+	],
+	"healthicon": "suicide-beta",
+	"flip_x": false,
+	"healthbar_colors": [
+		233,
+		229,
+		233
+	],
+	"camera_position": [
+		580,
+		370
+	],
+	"sing_duration": 4,
+	"scale": 0.65
+}

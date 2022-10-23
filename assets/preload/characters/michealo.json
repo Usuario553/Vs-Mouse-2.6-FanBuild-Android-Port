@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				251
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1240,
+				850
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "appear",
+			"loop": false,
+			"name": "apper shit"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/michealo",
+	"position": [
+		310,
+		360
+	],
+	"healthicon": "mich",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		255,
+		161
+	],
+	"camera_position": [
+		-1560,
+		-730
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}
