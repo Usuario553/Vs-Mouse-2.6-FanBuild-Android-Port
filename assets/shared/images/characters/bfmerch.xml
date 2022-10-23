@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF.png">
+<SubTexture name="BF idle dance0000" x="2245" y="1994" width="551" height="594" frameX="-298" frameY="-116" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF idle dance0001" x="2245" y="1994" width="551" height="594" frameX="-298" frameY="-116" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF idle dance0002" x="539" y="1994" width="544" height="624" frameX="-302" frameY="-86" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF idle dance0003" x="539" y="1994" width="544" height="624" frameX="-302" frameY="-86" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF idle dance0004" x="0" y="1994" width="539" height="631" frameX="-311" frameY="-79" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF idle dance0005" x="0" y="1994" width="539" height="631" frameX="-311" frameY="-79" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF idle dance0006" x="1216" y="1337" width="547" height="649" frameX="-319" frameY="-62" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF idle dance0007" x="1216" y="1337" width="547" height="649" frameX="-319" frameY="-62" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF idle dance0008" x="2246" y="676" width="562" height="660" frameX="-319" frameY="-51" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF idle dance0009" x="2246" y="676" width="562" height="660" frameX="-319" frameY="-51" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF idle dance0010" x="1684" y="676" width="562" height="660" frameX="-319" frameY="-50" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF idle dance0011" x="1684" y="676" width="562" height="660" frameX="-319" frameY="-50" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF idle dance0012" x="1122" y="676" width="562" height="660" frameX="-319" frameY="-51" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF idle dance0013" x="1122" y="676" width="562" height="660" frameX="-319" frameY="-51" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF idle dance0014" x="566" y="676" width="556" height="660" frameX="-319" frameY="-51" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF Down Note0000" x="575" y="2625" width="553" height="569" frameX="-279" frameY="-133" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Down Note0001" x="575" y="2625" width="553" height="569" frameX="-279" frameY="-133" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF Down Note0002" x="0" y="2625" width="575" height="580" frameX="-269" frameY="-123" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Down Note0003" x="0" y="2625" width="575" height="580" frameX="-269" frameY="-123" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF Down Note0004" x="1664" y="1994" width="581" height="604" frameX="-274" frameY="-100" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Down Note0005" x="1664" y="1994" width="581" height="604" frameX="-274" frameY="-100" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF Down Note0006" x="1083" y="1994" width="581" height="610" frameX="-274" frameY="-95" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Down Note0007" x="1083" y="1994" width="581" height="610" frameX="-274" frameY="-95" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF Right Note0000" x="2327" y="1337" width="616" height="632" frameX="-332" frameY="-111" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Right Note0001" x="2327" y="1337" width="616" height="632" frameX="-332" frameY="-111" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF Right Note0002" x="0" y="1337" width="608" height="657" frameX="-312" frameY="-87" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Right Note0003" x="0" y="1337" width="608" height="657" frameX="-312" frameY="-87" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF Right Note0004" x="608" y="1337" width="608" height="656" frameX="-312" frameY="-87" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Right Note0005" x="608" y="1337" width="608" height="656" frameX="-312" frameY="-87" frameWidth="832" frameHeight="683" />
+
+
+<SubTexture name="BF Left Note0000" x="1159" y="0" width="572" height="666" frameX="-290" frameY="-74" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Left Note0001" x="1159" y="0" width="572" height="666" frameX="-290" frameY="-74" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF Left Note0002" x="1731" y="0" width="557" height="664" frameX="-300" frameY="-74" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Left Note0003" x="1731" y="0" width="557" height="664" frameX="-300" frameY="-74" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF Left Note0004" x="0" y="676" width="566" height="661" frameX="-315" frameY="-77" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Left Note0005" x="0" y="676" width="566" height="661" frameX="-315" frameY="-77" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF Left Note0006" x="2288" y="0" width="561" height="661" frameX="-321" frameY="-77" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Left Note0007" x="2288" y="0" width="561" height="661" frameX="-321" frameY="-77" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF Up Note0000" x="0" y="0" width="586" height="676" frameX="-341" frameY="-17" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Up Note0001" x="0" y="0" width="586" height="676" frameX="-341" frameY="-17" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF Up Note0002" x="586" y="0" width="573" height="666" frameX="-339" frameY="-26" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Up Note0003" x="586" y="0" width="573" height="666" frameX="-339" frameY="-26" frameWidth="832" frameHeight="683" />
+
+<SubTexture name="BF Up Note0004" x="1763" y="1337" width="564" height="642" frameX="-339" frameY="-51" frameWidth="832" frameHeight="683" />
+<SubTexture name="BF Up Note0005" x="1763" y="1337" width="564" height="642" frameX="-339" frameY="-51" frameWidth="832" frameHeight="683" />
+
+
+</TextureAtlas>

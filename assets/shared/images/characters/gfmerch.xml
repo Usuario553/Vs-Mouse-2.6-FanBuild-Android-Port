@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfmerch.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceLeft0000" x="0" y="0" width="699" height="723" frameX="-2" frameY="-16" frameWidth="703" frameHeight="739"/>
+	<SubTexture name="danceLeft0001" x="699" y="0" width="703" height="723" frameX="0" frameY="-16" frameWidth="703" frameHeight="739"/>
+	<SubTexture name="danceLeft0002" x="1402" y="0" width="703" height="720" frameX="0" frameY="-19" frameWidth="703" frameHeight="739"/>
+	<SubTexture name="danceLeft0003" x="2105" y="0" width="699" height="720" frameX="-2" frameY="-19" frameWidth="703" frameHeight="739"/>
+	<SubTexture name="danceLeft0004" x="2804" y="0" width="699" height="723" frameX="-2" frameY="-16" frameWidth="703" frameHeight="739"/>
+
+	<SubTexture name="danceRight0000" x="7002" y="0" width="699" height="734" frameX="-2" frameY="-5" frameWidth="703" frameHeight="739"/>
+	<SubTexture name="danceRight0001" x="0" y="739" width="703" height="734" frameX="0" frameY="-5" frameWidth="703" frameHeight="739"/>
+	<SubTexture name="danceRight0002" x="703" y="739" width="703" height="733" frameX="0" frameY="-6" frameWidth="703" frameHeight="739"/>
+	<SubTexture name="danceRight0003" x="1406" y="739" width="699" height="733" frameX="-2" frameY="-6" frameWidth="703" frameHeight="739"/>
+	<SubTexture name="danceRight0004" x="2105" y="739" width="699" height="732" frameX="-2" frameY="-7" frameWidth="703" frameHeight="739"/>
+
+</TextureAtlas>

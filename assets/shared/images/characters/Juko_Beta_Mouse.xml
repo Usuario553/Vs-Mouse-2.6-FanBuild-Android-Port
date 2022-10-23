@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Juko_Beta_Mouse.png">
+<SubTexture name="Juko_Beta_Mouse down0000" x="866" y="1416" width="443" height="447" frameX="-18" frameY="-46" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse down0001" x="429" y="1416" width="437" height="453" frameX="-20" frameY="-40" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse down0002" x="0" y="1416" width="429" height="455" frameX="-22" frameY="-38" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse idle0000" x="1323" y="464" width="403" height="462" frameX="-22" frameY="-31" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse idle0001" x="1741" y="460" width="407" height="453" frameX="-20" frameY="-40" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse idle0002" x="1213" y="953" width="399" height="460" frameX="-26" frameY="-33" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse idle0003" x="816" y="953" width="397" height="461" frameX="-26" frameY="-32" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse idle0004" x="419" y="953" width="397" height="462" frameX="-26" frameY="-31" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse left0000" x="1741" y="0" width="424" height="460" frameX="-2" frameY="-33" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse left0001" x="1323" y="0" width="418" height="464" frameX="-5" frameY="-29" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse left0002" x="0" y="953" width="419" height="463" frameX="-4" frameY="-30" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse right0000" x="0" y="478" width="472" height="475" frameX="-69" frameY="-18" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse right0001" x="0" y="0" width="467" height="478" frameX="-69" frameY="-15" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse right0002" x="467" y="0" width="457" height="478" frameX="-73" frameY="-15" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse up0000" x="924" y="0" width="399" height="477" frameX="-45" frameY="-16" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse up0001" x="472" y="478" width="392" height="469" frameX="-44" frameY="-24" frameWidth="542" frameHeight="502" />
+<SubTexture name="Juko_Beta_Mouse up0002" x="864" y="478" width="385" height="465" frameX="-43" frameY="-28" frameWidth="542" frameHeight="502" />
+</TextureAtlas>

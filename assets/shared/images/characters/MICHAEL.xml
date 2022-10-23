@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MICHAEL.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="michael DOWN0000" x="5" y="5" width="524" height="512" frameX="0" frameY="0" frameWidth="525" frameHeight="512"/>
+	<SubTexture name="michael DOWN0001" x="534" y="5" width="524" height="512" frameX="-1" frameY="0" frameWidth="525" frameHeight="512"/>
+	<SubTexture name="michael IDLE0000" x="1063" y="5" width="539" height="487" frameX="-3" frameY="-94" frameWidth="561" frameHeight="581"/>
+	<SubTexture name="michael IDLE0001" x="1607" y="5" width="530" height="499" frameX="-11" frameY="-82" frameWidth="561" frameHeight="581"/>
+	<SubTexture name="michael IDLE0002" x="2142" y="5" width="527" height="534" frameX="0" frameY="-47" frameWidth="561" frameHeight="581"/>
+	<SubTexture name="michael IDLE0003" x="2674" y="5" width="503" height="576" frameX="-53" frameY="-5" frameWidth="561" frameHeight="581"/>
+	<SubTexture name="michael IDLE0004" x="3182" y="5" width="505" height="581" frameX="-56" frameY="0" frameWidth="561" frameHeight="581"/>
+	<SubTexture name="michael LEFT0000" x="5" y="591" width="532" height="584" frameX="-4" frameY="-2" frameWidth="541" frameHeight="586"/>
+	<SubTexture name="michael LEFT0001" x="542" y="591" width="541" height="586"/>
+	<SubTexture name="michael RIGHT0000" x="1088" y="591" width="523" height="589"/>
+	<SubTexture name="michael RIGHT0001" x="1616" y="591" width="521" height="586" frameX="0" frameY="-3" frameWidth="523" frameHeight="589"/>
+	<SubTexture name="michael SHOOT0000" x="2142" y="591" width="471" height="600" frameX="-1" frameY="-6" frameWidth="472" frameHeight="606"/>
+	<SubTexture name="michael SHOOT0001" x="2618" y="591" width="356" height="605" frameX="-1" frameY="-1" frameWidth="472" frameHeight="606"/>
+	<SubTexture name="michael SHOOT0002" x="2979" y="591" width="349" height="606" frameX="-1" frameY="0" frameWidth="472" frameHeight="606"/>
+	<SubTexture name="michael SHOOT0003" x="3333" y="591" width="349" height="606" frameX="0" frameY="0" frameWidth="472" frameHeight="606"/>
+	<SubTexture name="michael UP0000" x="5" y="1202" width="502" height="596" frameX="-6" frameY="0" frameWidth="508" frameHeight="596"/>
+	<SubTexture name="michael UP0001" x="512" y="1202" width="506" height="591" frameX="0" frameY="-5" frameWidth="508" frameHeight="596"/>
+</TextureAtlas>

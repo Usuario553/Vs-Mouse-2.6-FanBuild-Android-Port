@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mouse_Repent.png">
+<SubTexture name="Mouse_Repent d0000" x="930" y="1594" width="496" height="414" frameX="-228" frameY="-196" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent d0001" x="1426" y="1594" width="483" height="414" frameX="-241" frameY="-196" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent l0000" x="939" y="0" width="524" height="542" frameX="-133" frameY="-71" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent l0001" x="0" y="563" width="514" height="542" frameX="-143" frameY="-71" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent r0000" x="514" y="563" width="452" height="499" frameX="-292" frameY="-114" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent r0001" x="966" y="563" width="443" height="496" frameX="-296" frameY="-117" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent u0000" x="0" y="0" width="462" height="563" frameX="-251" frameY="-44" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent u0001" x="462" y="0" width="477" height="554" frameX="-256" frameY="-55" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0000" x="1923" y="931" width="459" height="456" frameX="-258" frameY="-157" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0001" x="464" y="1594" width="466" height="452" frameX="-256" frameY="-161" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0002" x="0" y="1594" width="464" height="463" frameX="-256" frameY="-150" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0003" x="1923" y="470" width="459" height="461" frameX="-261" frameY="-152" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0004" x="1385" y="1105" width="462" height="472" frameX="-259" frameY="-141" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0005" x="1923" y="0" width="461" height="470" frameX="-260" frameY="-143" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0006" x="461" y="1105" width="462" height="485" frameX="-257" frameY="-128" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0007" x="923" y="1105" width="462" height="484" frameX="-257" frameY="-129" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0008" x="1463" y="0" width="460" height="489" frameX="-257" frameY="-124" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0009" x="0" y="1105" width="461" height="489" frameX="-256" frameY="-124" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0010" x="1463" y="0" width="460" height="489" frameX="-257" frameY="-124" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0011" x="0" y="1105" width="461" height="489" frameX="-256" frameY="-124" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0012" x="1463" y="0" width="460" height="489" frameX="-257" frameY="-124" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0013" x="0" y="1105" width="461" height="489" frameX="-256" frameY="-124" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0014" x="1463" y="0" width="460" height="489" frameX="-257" frameY="-124" frameWidth="962" frameHeight="718" />
+<SubTexture name="Mouse_Repent idle0015" x="0" y="1105" width="461" height="489" frameX="-256" frameY="-124" frameWidth="962" frameHeight="718" />
+</TextureAtlas>

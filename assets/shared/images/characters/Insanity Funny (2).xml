@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Suicide_Legacy.png">
+<SubTexture name="Suicide_Legacy d0000" x="510" y="2442" width="516" height="480" frameX="-197" frameY="-172" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy d0001" x="2706" y="0" width="493" height="509" frameX="-211" frameY="-143" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy d0002" x="1313" y="1873" width="462" height="537" frameX="-228" frameY="-115" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy i0000" x="1394" y="0" width="421" height="594" frameX="-266" frameY="-58" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy i0001" x="848" y="1873" width="465" height="559" frameX="-253" frameY="-93" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy i0002" x="1775" y="1873" width="450" height="535" frameX="-258" frameY="-117" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy i0003" x="417" y="1873" width="431" height="560" frameX="-263" frameY="-92" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy i0004" x="0" y="1873" width="417" height="569" frameX="-267" frameY="-83" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy i0005" x="1656" y="1283" width="412" height="574" frameX="-267" frameY="-78" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy l0000" x="1815" y="593" width="402" height="593" frameX="-215" frameY="-59" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy l0001" x="1394" y="594" width="393" height="587" frameX="-224" frameY="-65" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy l0002" x="1258" y="1283" width="398" height="576" frameX="-236" frameY="-76" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy r0000" x="444" y="1283" width="405" height="587" frameX="-269" frameY="-65" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy r0001" x="849" y="1283" width="409" height="581" frameX="-269" frameY="-71" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy r0002" x="2296" y="0" width="410" height="571" frameX="-269" frameY="-81" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy u0000" x="452" y="0" width="364" height="642" frameX="-285" frameY="-9" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy u0001" x="0" y="659" width="376" height="624" frameX="-281" frameY="-28" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy u0002" x="376" y="659" width="390" height="617" frameX="-276" frameY="-35" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy haha0000" x="1815" y="0" width="481" height="593" frameX="-194" frameY="-59" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy haha0001" x="0" y="1283" width="444" height="590" frameX="-239" frameY="-62" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy haha0002" x="766" y="659" width="426" height="616" frameX="-255" frameY="-36" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy haha0003" x="816" y="0" width="578" height="635" frameX="-97" frameY="-17" frameWidth="958" frameHeight="714" />
+<SubTexture name="Suicide_Legacy haha0004" x="0" y="0" width="452" height="659" frameX="-263" frameY="0" frameWidth="958" frameHeight="721" />
+<SubTexture name="Suicide_Legacy haha0005" x="0" y="2442" width="510" height="494" frameX="-171" frameY="-158" frameWidth="958" frameHeight="714" />
+</TextureAtlas>
