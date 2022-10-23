@@ -1,0 +1,74 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "alley-magrolo",
+		"player1": "bf",
+		"player2": "suicidefunny1",
+		"player3": null,
+		"events": [
+			[
+				71111.1111111112,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"suicidefunny2"
+					],
+					[
+						"Sing Shake",
+						"",
+						""
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"suicidefunny3"
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				199000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				215111.111111111,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 135,
+		"arrowSkin": "NOTE_assets",
+		"needsVoices": true,
+		"song": "Insanity Funny"
+	}
+}
