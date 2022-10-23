@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="suicide3.png"><SubTexture name="Down0000" x="0" y="0" width="1053" height="857" frameX="-35" frameY="-186" frameWidth="1148" frameHeight="1015" />
+<SubTexture name="Down0001" x="1053" y="0" width="1051" height="830" frameX="-35" frameY="-169" frameWidth="1148" frameHeight="1015" />
+<SubTexture name="Down0002" x="1053" y="0" width="1051" height="830" frameX="-35" frameY="-169" frameWidth="1148" frameHeight="1015" />
+
+<SubTexture name="Idle0000" x="927" y="1015" width="954" height="747" frameX="-6" frameY="-55" frameWidth="1185" frameHeight="846" />
+<SubTexture name="Idle0001" x="1881" y="1015" width="960" height="747" frameX="-1" frameY="-62" frameWidth="1185" frameHeight="846" />
+<SubTexture name="Idle0002" x="1881" y="1015" width="960" height="747" frameX="-1" frameY="-62" frameWidth="1185" frameHeight="846" />
+<SubTexture name="Idle0003" x="927" y="1762" width="951" height="747" frameX="-17" frameY="-62" frameWidth="1185" frameHeight="846" />
+<SubTexture name="Idle0004" x="927" y="1762" width="951" height="747" frameX="-17" frameY="-62" frameWidth="1185" frameHeight="846" />
+
+<SubTexture name="Left0000" x="1878" y="1762" width="942" height="873" frameX="0" frameY="-90" frameWidth="1042" frameHeight="1001" />
+<SubTexture name="Left0001" x="3010" y="0" width="953" height="858" frameX="0" frameY="-90" frameWidth="1042" frameHeight="1001" />
+<SubTexture name="Left0002" x="3010" y="0" width="953" height="858" frameX="0" frameY="-90" frameWidth="1042" frameHeight="1001" />
+
+<SubTexture name="Right0000" x="3010" y="858" width="995" height="895" frameX="-122" frameY="-41" frameWidth="1208" frameHeight="933" />
+<SubTexture name="Right0001" x="2841" y="1753" width="994" height="892" frameX="-121" frameY="-38" frameWidth="1208" frameHeight="933" />
+<SubTexture name="Right0002" x="0" y="2645" width="1086" height="891" frameX="-38" frameY="-43" frameWidth="1208" frameHeight="933" />
+
+<SubTexture name=" Laugh0000" x="1086" y="2645" width="915" height="971" frameX="-6" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0001" x="2001" y="2645" width="936" height="959" frameX="-1" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0002" x="1086" y="2645" width="915" height="971" frameX="-6" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0003" x="2001" y="2645" width="936" height="959" frameX="-1" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0004" x="1086" y="2645" width="915" height="971" frameX="-6" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0005" x="2001" y="2645" width="936" height="959" frameX="-1" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0006" x="1086" y="2645" width="915" height="971" frameX="-6" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0007" x="2001" y="2645" width="936" height="959" frameX="-1" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0008" x="1086" y="2645" width="915" height="971" frameX="-6" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0009" x="2001" y="2645" width="936" height="959" frameX="-1" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0010" x="1086" y="2645" width="915" height="971" frameX="-6" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0011" x="1086" y="2645" width="915" height="971" frameX="-6" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0012" x="2001" y="2645" width="936" height="959" frameX="-1" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0013" x="2001" y="2645" width="936" height="959" frameX="-1" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0014" x="1086" y="2645" width="915" height="971" frameX="-6" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0015" x="2001" y="2645" width="936" height="959" frameX="-1" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0016" x="1086" y="2645" width="915" height="971" frameX="-6" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Laugh0017" x="2001" y="2645" width="936" height="959" frameX="-1" frameY="-186" frameWidth="1017" frameHeight="1228" />
+<SubTexture name=" Up0000" x="2104" y="0" width="906" height="1015" frameX="-6" frameY="-82" frameWidth="1017" frameHeight="1105" />
+<SubTexture name=" Up0001" x="0" y="1015" width="927" height="1009" frameX="-6" frameY="-82" frameWidth="1017" frameHeight="1105" />
+<SubTexture name=" Up0002" x="0" y="1015" width="927" height="1009" frameX="-6" frameY="-82" frameWidth="1017" frameHeight="1105" />
+
+</TextureAtlas>
