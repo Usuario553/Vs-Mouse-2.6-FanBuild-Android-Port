@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "moukov",
+		"player1": "Mouselol",
+		"player2": "suicidefunny1",
+		"player3": null,
+		"events": [
+			[
+				44691.7808219178,
+				[
+					[
+						"Change Character",
+						"dad",
+						"suicidefunny2"
+					]
+				]
+			],
+			[
+				46027.397260274,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 146,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Moukov"
+	}
+}
