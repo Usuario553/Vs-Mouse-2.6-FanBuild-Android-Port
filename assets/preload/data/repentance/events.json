@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "clubhouse-repentance",
+		"player1": "bfmain",
+		"player2": "markus-repentance",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Sing Shake",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfmain",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Repentance"
+	}
+}
