@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "clubhouse",
+		"player1": "bfmain",
+		"player2": "markus",
+		"player3": null,
+		"events": [
+			[
+				19500,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				19500,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				19625,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				130000,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				130125,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				130125,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				146000,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				146125,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfmain",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Welcome"
+	}
+}
