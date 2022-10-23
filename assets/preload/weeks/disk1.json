@@ -1,0 +1,68 @@
+{
+	"storyName": "Clubhouse Maniac",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "clubhouse",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Welcome",
+			"mouse-new",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Revenge",
+			"mouse-mad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Repentance",
+			"mouse-repent",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Crisis",
+			"marko",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Crazy Rat",
+			"marko",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Disk 1",
+	"hiddenUntilUnlocked": false
+}

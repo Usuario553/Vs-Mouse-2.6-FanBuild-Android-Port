@@ -1,0 +1,32 @@
+{
+	"storyName": "vs mouse 2 (real)",
+	"difficulties": "D-Sides",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"goodbye",
+			"michael",
+			[
+				6,
+				93,
+				233
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "michael week",
+	"hiddenUntilUnlocked": false
+}
