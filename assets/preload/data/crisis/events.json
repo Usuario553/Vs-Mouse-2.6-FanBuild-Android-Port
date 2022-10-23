@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "clubhouse-crisis",
+		"player1": "bfmain",
+		"player2": "marco",
+		"player3": null,
+		"events": [
+			[
+				12000,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.05",
+						""
+					]
+				]
+			],
+			[
+				148800,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Sing Shake",
+						"",
+						""
+					]
+				]
+			],
+			[
+				187200,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfmain",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Crisis"
+	}
+}
