@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf2Icons1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ManifestAngryIcon0000" x="0" y="0" width="147" height="145" frameX="-1" frameY="-1" frameWidth="149" frameHeight="147"/>
+	<SubTexture name="ManifestAngryIcon0001" x="147" y="0" width="149" height="147"/>
+	<SubTexture name="ManifestAngryIcon0002" x="296" y="0" width="143" height="141" frameX="-3" frameY="-3" frameWidth="149" frameHeight="147"/>
+	<SubTexture name="ManifestAngryIcon0003" x="0" y="147" width="143" height="141" frameX="-3" frameY="-3" frameWidth="149" frameHeight="147"/>
+	<SubTexture name="ManifestAngryIcon0004" x="143" y="147" width="140" height="138" frameX="-4" frameY="-4" frameWidth="149" frameHeight="147"/>
+	<SubTexture name="ManifestNormalIcon0000" x="0" y="0" width="147" height="145" frameX="-1" frameY="-1" frameWidth="149" frameHeight="147"/>
+	<SubTexture name="ManifestNormalIcon0001" x="147" y="0" width="149" height="147"/>
+	<SubTexture name="ManifestNormalIcon0002" x="296" y="0" width="143" height="141" frameX="-3" frameY="-3" frameWidth="149" frameHeight="147"/>
+	<SubTexture name="ManifestNormalIcon0003" x="0" y="147" width="143" height="141" frameX="-3" frameY="-3" frameWidth="149" frameHeight="147"/>
+	<SubTexture name="ManifestNormalIcon0004" x="143" y="147" width="140" height="138" frameX="-4" frameY="-4" frameWidth="149" frameHeight="147"/>
+</TextureAtlas>
